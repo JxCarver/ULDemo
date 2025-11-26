@@ -41,9 +41,9 @@ source pn532env/bin/activate
 #Place the card onto the red module, a popup should appear saying "Access Granted" and specifying how many pages were read. If this does not happen, you fucked up and are dumb.
 
 #On the Flipper Zero navigate to Apps>NFC>Read. Scan the card. If all pages were read, the card is unencrypted and can be emulated. Either way, click the emulate button and scan the flipper with the red module.
-# Tell them if the card is encrypted or not. The flipper should tell you how many total pages are encrypted.
+#Tell them if the card is encrypted or not. The flipper should tell you how many total pages are encrypted.
 
-# If a command is not working, call J. If an error message repeats and you don't know why, call J. If Deviant Ollam shows up, Call J. If it says to call J, Call J.
+#If a command is not working, call J. If an error message repeats and you don't know why, call J. If Deviant Ollam shows up, Call J. If it says to call J, Call J.
 
 
 ####################################################################################################################
