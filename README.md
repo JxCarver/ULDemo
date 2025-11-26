@@ -1,5 +1,5 @@
 # Overview
-This repository contains materials for a controlled demonstration using a Proxmark3/Easy setup to read NFC cards—specifically MiFare Ultralight—and program them for use with a new scanner. The demo was created for an internal training environment and is intended only for authorized, legitimate security research and access-control system education.
+This repository contains materials for a controlled demonstration using a Proxmark3/Easy setup to read NFC cards-specifically MiFare Ultralight-and program them for use with a new scanner. The demo was created for an internal training environment and is intended only for authorized, legitimate security research and access-control system education.
 
 # Purpose of the Demo
 The demo shows participants:
